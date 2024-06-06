@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: prompt;
+}
+.container {
+    
+  display: flex;
+  background-color: rgb(18, 172, 223);
+  align-items: center;
+  padding: 50px;
+  .blue{
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+  .btn{
+    background-color: yellow;
+    width: 200px;
+    border: 1px ;
+    padding: 6px;
+  }
+  .btn:hover{
+    cursor: pointer;
+    scale: 1.1;
+  }
+  }
+.prozrachniy {
+  opacity: 60%;
+}
+.icon{
+    width: 90px;
+}
+.white{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* gap: 50px; */
+    
+}
+.zagolovok{
+    display: flex;
+    justify-content: center;
+    padding: 52px;
+
+}
+.porno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nigga{
+  display: flex;
+ flex-direction: column;
+ width: 350px;
+ height: 305px;
+ gap: 20px;
+
+}
+.pidaras{
+  width: 350px;
+  height: 40px;
+  display: flex;
+ padding: 20px;
+}
+.container3{
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+padding: 100px;
+background-color: rgba(211, 211, 211, 0.603);
+}
+.container2{
+  padding: 52px;
+}
+.btne{
+  width: 350px;
+  height: 40px;
+  border: 1px ;
+  background-color: yellow;
+}
+.konec{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(17, 17, 114);
+  padding: 80px;
+  color: white;
+}
